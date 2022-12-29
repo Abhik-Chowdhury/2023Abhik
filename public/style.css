@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    padding-top: 30%;
+    background: url(https://mfiles.alphacoders.com/789/thumb-350-789420.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  *{
+    padding:0;
+  }
+  .show{
+    display: none;
+    
+  }
+  h1{
+    font-size: 150px;
+    color: white;
+    
+    text-shadow: 5px 5px red;
+  }
+  h2{
+    font-size: 200px;
+    color: yellow;
+    text-shadow: 5px 5px black;
+  }
+  input{
+    font-size: 80px;
+    width: 70%;
+    border: 5px solid blue;
+  }
+  button{
+    font-size: 60px;
+    background: gray;
+    border-radius: 15px;
+    border: 3px solid green;
+    font-weight: 400;
+  }
+  .ig{
+    height:90%;
+    width:100%;
+    
+    border:2px soolid red;
+  }
